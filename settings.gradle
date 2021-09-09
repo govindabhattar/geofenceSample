@@ -1,0 +1,2 @@
+rootProject.name='Geofence-Sample'
+include ':app'

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150838516890",
+    "project_id": "geofencesample-a4d11",
+    "storage_bucket": "geofencesample-a4d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150838516890:android:428b26f7c0d5e8f065d323",
+        "android_client_info": {
+          "package_name": "com.govinda.geofencesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150838516890-aenk1n2h9ifc9adbl995hr6503t1n6uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-BpKgAMxRS3ygfCKbLHYAR5jicYgMNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150838516890-aenk1n2h9ifc9adbl995hr6503t1n6uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
